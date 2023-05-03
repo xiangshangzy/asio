@@ -1,0 +1,6 @@
+.vscode
+build
+*.mp4
+*.jpg
+test.cpp
+*.exe
